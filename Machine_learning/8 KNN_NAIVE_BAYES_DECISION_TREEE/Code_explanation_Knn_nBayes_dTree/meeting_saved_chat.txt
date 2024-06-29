@@ -1,0 +1,4 @@
+22:09:14 From Himani Singh to Everyone:
+	it is a classifier which depends upon naive bayes theoram		posterior pb= liklihood * class prior pb / predictor proir probbaility		note: - faster than other , accurate	p(c/x) =p(x/c) * p(c) /p(x)		p--probability	x variable to predict	c categories	iris --> setosa, versicolor,virginica	c1 c2 c3  x =?	p(c1/x)=0.23	p(c2/x)=0.923	p(c3/x)=0.9
+22:15:45 From Himani Singh to Everyone:
+	it is a classifier which work on information gain.	1.am i hungry?	2.having 5$	3.go to restonrent	4.go to sleep	5.buy a burger		which variable is having maximum information that will be considered as root node and others will be branches and leaves
